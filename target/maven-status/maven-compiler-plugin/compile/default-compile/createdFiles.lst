@@ -1,0 +1,8 @@
+base\TestBase.class
+pages\Fashion_Page.class
+pages\Login_Page.class
+pages\Home_Page.class
+extendedReports\ExtentReporterNG.class
+pages\AddToCart_Page.class
+pages\Saved_Page.class
+util\TestUtil.class
