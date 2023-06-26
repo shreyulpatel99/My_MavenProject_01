@@ -44,7 +44,7 @@ public class HomePageTest extends TestBase {
 	
 	@Test (priority = 2)
 	public void verifyCorrectuserNameTest () {
-		Assert.assertTrue(homePage.verifyuserName()); 
+		Assert.assertEquals(homePage.verifyuserName(), "Shreyul"); 
 	}
 	
 	@Test (priority = 3)

@@ -43,8 +43,8 @@ public class Home_Page extends TestBase {
 		return driver.getTitle();
 	}
 	
-	public boolean verifyuserName () { 
-		return userNameLabel.isDisplayed(); 
+	public String verifyuserName () { 
+		return userNameLabel.getText(); 
 	}
 	
 	public void verifyProfileName () { 
