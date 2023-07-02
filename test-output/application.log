@@ -1,0 +1,7 @@
+INFO	2023-07-02 12:55:05,719	0	testcases.LoginPageTest	[main]	initialization is in process
+log4j.appender.fileINFO	2023-07-02 13:18:35,386	0	testcases.LoginPageTest	[main]	initialization is in process
+log4j.appender.fileINFO	2023-07-02 13:18:42,232	6846	testcases.LoginPageTest	[main]	Starting test case
+log4j.appender.fileINFO	2023-07-02 13:18:42,455	7069	testcases.LoginPageTest	[main]	Ending test case
+log4j.appender.fileINFO	2023-07-02 13:18:43,503	8117	testcases.LoginPageTest	[main]	initialization is in process
+log4j.appender.fileINFO	2023-07-02 13:18:47,490	12104	testcases.LoginPageTest	[main]	Starting test case
+log4j.appender.file
